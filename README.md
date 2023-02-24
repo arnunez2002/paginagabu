@@ -1,2 +1,1 @@
-# paginagabu
-para gabu 
+TinDog Starting Files
